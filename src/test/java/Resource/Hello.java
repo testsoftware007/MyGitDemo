@@ -15,6 +15,7 @@ public class Hello {
 	System.out.println("Hello2");
 	System.out.println("A Change");
 	System.out.println("B Change");
+	System.out.println("Feature branch chages By B user");
     
     
 		// TODO Auto"-generated method stub
